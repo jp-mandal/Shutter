@@ -1,4 +1,4 @@
-Smart Door Control System (STM32 Nucleo-64 + OLED)
+**Smart Door Control System (STM32 Nucleo-64 + OLED)**
 Project Description
 This project demonstrates a precision-controlled smart door or mechanical arm system built using the STM32 Nucleo-64 Development Board. The system uses a Potentiometer as an analog input device to simulate a door handle or manual controller, which dictates the angular position of a Servo Motor. The system features real-time calibration to ensure the motor reaches precise 0° and 180° limits. An SSD1306 OLED display is interfaced via I2C to provide a live readout of the potentiometer’s raw digital value and the corresponding door angle in degrees.
 
